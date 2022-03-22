@@ -139,7 +139,7 @@ if(empty($username_err) && empty($password_err) && empty($confirm_password_err))
             <form class="row g-3">
                 <div class="col-md-6">
                     <label for="inputusername" class="form-label">Username</label>
-                    <input type="text " class="form-control" name="username" id="inputusername4">
+                    <input type="text" class="form-control" name="username" id="inputemail4">
                 </div>
                 <div class="col-md-6">
                     <label for="inputPassword4" class="form-label">Password</label>
